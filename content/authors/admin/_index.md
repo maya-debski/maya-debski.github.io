@@ -50,7 +50,7 @@ education:
     date_start: 2023-08-16
     date_end: 
     summary: |
-      Using the integral field spectrograph VIRUS to study lyman-alpha emitters at Cosmic Noon to identify and trace cosmic web filaments
+      Using the integral field spectrograph VIRUS to study Lyman-alpha emitters at Cosmic Noon to identify and trace cosmic web filaments
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -172,4 +172,4 @@ awards:
 
 ## This website is currently in development! Please check back at a later date to see the completed result.
 
-I am a graduate student at The University of Texas at Austin, pursuing a PhD in Astronomy. My research focuses on studying the cosmic web in lyman-alpha emission at Cosmic Noon using the integral field spectrograph VIRUS on the Hobby Eberly Telescope. Additionally, I am working to build spectroscopic reduction pipelines for the George and Cynthia Mitchell Spectrograph (GCMS) and VIRUS-2 instruments on the Harlan J. Smith Telescope at McDonald Observatory.
+I am a graduate student at The University of Texas at Austin, pursuing a PhD in Astronomy. My research focuses on studying the cosmic web in Lyman-alpha emission at Cosmic Noon using the integral field spectrograph VIRUS on the Hobby Eberly Telescope. Additionally, I am working to build spectroscopic reduction pipelines for the George and Cynthia Mitchell Spectrograph (GCMS) and VIRUS-2 instruments on the Harlan J. Smith Telescope at McDonald Observatory.
