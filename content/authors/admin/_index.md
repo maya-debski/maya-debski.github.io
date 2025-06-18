@@ -45,7 +45,7 @@ interests:
   - Integral Field Spectroscopy
 
 education:
-  - area: PhD Astronomy
+  - area: PhD Astronomy (in progress)
     institution: University of Texas at Austin
     date_start: 2023-08-16
     date_end: 
@@ -54,7 +54,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MA Astronomy
+  - area: MA Astronomy (in progress)
     institution: University of Texas at Austin
     date_start: 2023-08-16
     date_end: 
@@ -170,6 +170,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## This website is currently in development! Please check back at a later date to see the completed result.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate student at The University of Texas at Austin, pursuing a PhD in Astronomy. My research focuses on studying the cosmic web in lyman-alpha emission at Cosmic Noon using the integral field spectrograph VIRUS on the Hobby Eberly Telescope. Additionally, I am working to build spectroscopic reduction pipelines for the George and Cynthia Mitchell Spectrograph (GCMS) and VIRUS-2 instruments on the Harlan J. Smith Telescope at McDonald Observatory.
