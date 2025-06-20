@@ -41,7 +41,7 @@ profiles:
 
 interests:
   - Cosmic Web
-  - Lyman-alpha Emission
+  - Lyman-&alpha Emission
   - Integral Field Spectroscopy
 
 education:
