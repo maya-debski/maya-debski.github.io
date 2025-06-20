@@ -43,7 +43,7 @@ profiles:
 
 interests:
   - Cosmic Web
-  - Lyman-$\alpha$ Emission
+  - Lyman-alpha Emission
   - Integral Field Spectroscopy
 
 education:
@@ -174,4 +174,4 @@ awards:
 
 ## This website is currently in development! Please check back at a later date to see the completed result.
 
-I am a graduate student at The University of Texas at Austin, pursuing a PhD in Astronomy. My research focuses on studying the cosmic web in Lyman-$\alpha$ emission at Cosmic Noon using the integral field spectrograph VIRUS on the Hobby Eberly Telescope. Additionally, I am working to build spectroscopic reduction pipelines for the George and Cynthia Mitchell Spectrograph (GCMS) and VIRUS-2 instruments on the Harlan J. Smith Telescope at McDonald Observatory.
+I am a graduate student at The University of Texas at Austin, pursuing a PhD in Astronomy. My research focuses on studying the cosmic web in Lyman-alpha emission at Cosmic Noon using the integral field spectrograph VIRUS on the Hobby Eberly Telescope. Additionally, I am working to build spectroscopic reduction pipelines for the George and Cynthia Mitchell Spectrograph (GCMS) and VIRUS-2 instruments on the Harlan J. Smith Telescope at McDonald Observatory.
