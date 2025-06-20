@@ -38,6 +38,8 @@ profiles:
     url: https://scholar.google.com/citations?user=xy3YYuIAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1998-5677
+  - icon: cutsom/ads
+    url: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=orcid%3A0000-0002-1998-5677&sort=date%20desc%2C%20bibcode%20desc&p_=0
 
 interests:
   - Cosmic Web
