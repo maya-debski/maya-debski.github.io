@@ -44,18 +44,16 @@ owner:
 links:
   - title: About Me
     url: /
+  - title: Research
+    url: /research/
   - title: Publications
     url: /publications/
-  - title: Services
-    url: /services/
-  - title: Awards
-    url: /awards/
+  - title: Software
+    url: /software/
+  - title: CV
+    url: /cv/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-  - title: 中文
-    url: /cn/
 
 
 # --------------------------------------------------
