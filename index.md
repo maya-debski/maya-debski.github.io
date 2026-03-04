@@ -4,7 +4,8 @@ layout: page
 
 # About Me
 
-![maya.JPG](maya.JPG)
+<img src="maya.JPG" class="floatpic" width="25%">
+
 
 Hi! My name is **Maya Debski**.<br>
 
