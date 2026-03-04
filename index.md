@@ -2,7 +2,6 @@
 layout: page
 ---
 
-# About Me
 
 <img src="maya.JPG" class="floatpic" width="25%">
 
