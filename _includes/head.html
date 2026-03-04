@@ -13,12 +13,12 @@
 <meta name="twitter:creator" content="@{{ site.owner.twitter }}">
 {% if page.layout == 'photo' %}
 <meta name="twitter:card" content="photo">
-{% if page.image %}<meta name="twitter:image:src" content="{{ site.url }}/images/{{ page.image.feature }}">{% endif %}
+{% if page.image %}<meta name="twitter:image:src" content="{{ site.url }}/ut_logo.png">{% endif %}
 {% else %}
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image:src" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/default-thumb.png{% endif %}">{% endif %}
 <meta property="og:type" content="article">
-<meta property="og:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/default-thumb.png{% endif %}">
+<meta property="og:image" content="{% if page.image.thumb %}{{ site.url }}/ut_logo.png{% else %}{{ site.url }}/ut_logo.png{% endif %}">
 {% endif %}
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
