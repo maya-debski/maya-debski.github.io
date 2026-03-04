@@ -14,19 +14,15 @@ description: Here is the personal website of Maya Debski, PhD Student at the Uni
 # --------------------------------------------------
 owner:
   name: Maya Debski
-  #avatar: cam_logo.png   # 剑桥校徽（正方形）
-  # bio: Dream big, stay positive, work hard, and enjoy the journey.
+  avatar: ut_logo.png
   email: maya.debski@utexas.edu
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: maya-debski
-  scholar: https://scholar.google.com/citations?user=xy3YYuIAAAAJ&hl=en
   orcid: 0000-0002-1998-5677
   ads: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=orcid%3A%220000-0002-1998-5677%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
-  # facebook: caihanlin2002
-  # lastfm:
-  # tumblr:
+  scholar: https://scholar.google.com/citations?user=xy3YYuIAAAAJ&hl=en
 
 
 # --------------------------------------------------
