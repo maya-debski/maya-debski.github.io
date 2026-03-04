@@ -14,7 +14,7 @@ description: Here is the personal website of Maya Debski, PhD Student at the Uni
 # --------------------------------------------------
 owner:
   name: Maya Debski
-  avatar: ut_logo.png
+  avatar: /ut_logo.png
   email: maya.debski@utexas.edu
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
