@@ -3,7 +3,7 @@
 # --------------------------------------------------
 title: Maya Debski   # Main site title (appears in browser tab & RSS)
 tagline: Here is the personal website of Maya Debski. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is the personal website of Maya Debski, PhD Student at the University of Cambridge.  # Strongly recommended for SEO & social cards
+description: Here is the personal website of Maya Debski, PhD Student at the University of Texas at Austin.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
@@ -44,7 +44,7 @@ links:
     url: /research/
   - title: Publications
     url: /publications/
-  - title: Software
+  - title: Software & Data
     url: /software/
   - title: CV
     url: /cv_page/
