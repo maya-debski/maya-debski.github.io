@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-
+---
 ## First-Author Papers
 
 - [HETDEX-LOFAR Spectroscopic Redshift Catalog](https://ui.adsabs.harvard.edu/abs/2025ApJ...978..101D/abstract)<br>**Maya H. Debski**, Gregory R. Zeimann, Gary J. Hill, Donald P. Schneider, Leah Morabito, Gavin Dalton, Matt J. Jarvis, Erin Mentuch Cooper, Robin Ciardullo, Eric Gawiser, Nika Jurlin, ApJ, 978, 101 (2025)
