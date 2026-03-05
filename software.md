@@ -7,7 +7,7 @@ permalink: /software/
 ## Software
 
 - [Antigen](https://github.com/maya-debski/Antigen)<br>**Maya H. Debski**, Gregory R. Zeimann, Jason Vestuto<br> Data Reduction Pipeline for GCMS, VIRUS-W, and VIRUS-2
-- [Diagnose](https://zenodo.org/records/13755510)<br>**Maya H. Debski, Gregory R. Zeimann <br> Spectral Classification Code
+- [Diagnose](https://zenodo.org/records/13755510)<br>**Maya H. Debski**, Gregory R. Zeimann <br> Spectral Classification Code
 
 ---
 
